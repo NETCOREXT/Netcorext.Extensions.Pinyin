@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A5D68632-21BB-4296-B376-0F578896AB2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Netcorext.Extensions.Pinyin", "src\Netcorext.Extensions.Pinyin\Netcorext.Extensions.Pinyin.csproj", "{55143B83-A9C0-41DF-BE89-E72AE5CCBA64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55143B83-A9C0-41DF-BE89-E72AE5CCBA64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55143B83-A9C0-41DF-BE89-E72AE5CCBA64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55143B83-A9C0-41DF-BE89-E72AE5CCBA64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55143B83-A9C0-41DF-BE89-E72AE5CCBA64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{55143B83-A9C0-41DF-BE89-E72AE5CCBA64} = {A5D68632-21BB-4296-B376-0F578896AB2C}
+	EndGlobalSection
+EndGlobal
